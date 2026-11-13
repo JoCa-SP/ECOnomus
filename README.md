@@ -6,7 +6,7 @@ O ECOnomus é um chatbot desenvolvido no DialogFlow e integrado ao Telegram, pro
 
 ## 🚀 Acesse o Bot
 Você pode interagir com o ECOnomus diretamente no Telegram ou escanear o QR Code na página de divulgação.
-👉 **[Clique aqui para conversar com o ECOnomus](https://t.me/ECOnomusBot)** *(Atualize com o link do seu bot)*
+👉 **[Clique aqui para conversar com o ECOnomus](https://t.me/ECOnomusBot)**
 
 ## 🖥️ Sobre a Landing Page
 Esta página foi criada para divulgar o projeto, oferecendo um acesso rápido e fácil ao bot. 
@@ -15,7 +15,7 @@ Esta página foi criada para divulgar o projeto, oferecendo um acesso rápido e 
 
 ## 🌐 Acesse a Página
 A página está disponível publicamente em:
-👉 **[ECOnomus no GitHub Pages](https://JoCa-SP.github.io/ECOnomus/)** *(Atualize com o seu link real)*
+👉 **[ECOnomus no GitHub Pages](https://JoCa-SP.github.io/ECOnomus/)**
 
 ## 🛠️ Como rodar o projeto localmente
 1. Faça o clone deste repositório.
